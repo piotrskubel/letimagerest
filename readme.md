@@ -78,7 +78,7 @@ class ViewOrUploadImagesAnonymously(viewsets.ModelViewSet):
 In the example above after uploading a new image by any user the oldest image 
 will be automaticaly deleted, when the number of images is greater than 5.
 
-#Authenticated view
+# Authenticated view
 
 In the authenticated view there are seperate upload directories for each user.
 By default there is storage limit for such folders.
