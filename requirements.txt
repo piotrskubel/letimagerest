@@ -1,0 +1,8 @@
+dj-rest-auth
+django
+django-versatileimagefield
+djangorestframework
+pytest
+pytest-django
+python-decouple
+python-magic-bin
