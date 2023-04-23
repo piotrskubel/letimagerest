@@ -1,5 +1,6 @@
 dj-rest-auth
 django
+django-allauth
 django-versatileimagefield
 djangorestframework
 pytest
